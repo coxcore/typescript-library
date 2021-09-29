@@ -5,7 +5,7 @@
   "main": "build/index.min.js",
   "unpkg": "build/index.min.js",
   "jsdelivr": "build/index.min.js",
-  "module": "build/index.js",
+  "module": "build/index.mjs",
   "umd": "build/index.min.js",
   "types": "build/types/index.d.ts",
   "scripts": {
