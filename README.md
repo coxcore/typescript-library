@@ -64,7 +64,7 @@ $ yarn
 If the package is already installed, run the initialization script directly.
 
 ```
-$ node ./script/initialization
+$ node ./scripts/initialization
 ```
 
 > When initialization is complete, the `scripts/initialize.js` file is deleted, and the `scripts.install` value in `package.json` is also removed.
