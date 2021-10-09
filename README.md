@@ -4,7 +4,7 @@
 
 ### start
 
-> Run webpack dev server.
+> Run dev server. Target directory is `src/demo`.
 
 ```
 $ npm run start
@@ -20,16 +20,6 @@ $ yarn start
 $ npm run build
 or
 $ yarn build
-```
-
-### build:demo
-
-> Target directory is `src/demo`. Output directory is `dist`.
-
-```
-$ npm run build:demo
-or
-$ yarn build:demo
 ```
 
 ## Configuration
