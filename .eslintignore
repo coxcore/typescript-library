@@ -1,3 +1,3 @@
-dist/*
+demo/*
 build/*
 /**/*.d.ts
